@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi! 👋
+
+I'm Sasho, a Front-end Web Developer from Norwich, UK. I wrote my first "hello world" in Basic and built the first website in Flash. For years, designing, customising and building websites was my hobby - now it's my business. My passion is building responsive, engaging websites that focus on user experience, content, and design.
+
+
 
 <!--
 **sasolini/sasolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
