@@ -4,7 +4,7 @@
 
 I'm Sasho, a Front-end Web Developer from <b>Norwich, UK</b>. 
 
-I wrote my first "hello world" in Basic and built the first website in Flash. For years, designing, customising and building websites was my hobby - now it's my business. 
+Software development has been a part of me since my teens. From writing  "hello world" in Basic to building my first website in Flash, for years, designing, customising and developing websites provided me with a much-needed challenge and artistic expression. For many programming is a job, for me,  it's a ticket to the world of endless possibilities.
 
 <h3>Things I code with</h3>
 <p>
