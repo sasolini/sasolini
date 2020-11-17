@@ -2,7 +2,7 @@
 
 <br>
 
-I'm Sasho, a Front-end Web Developer from <b>Norwich, UK</b>. 
+I'm Sasho, a Full-Stack Web Developer from <b>Norwich, UK</b>. 
 
 Software development has been a part of me since my teens. From writing  "hello world" in Basic to building my first website in Flash, for years, designing, customising and developing websites provided me with a much-needed challenge and artistic expression. For many programming is a job, for me,  it's a ticket to the world of endless possibilities.
 
@@ -31,7 +31,7 @@ Software development has been a part of me since my teens. From writing  "hello 
 
 <br>
 
-- 🌱 I’m currently learning <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> and improving my <img alt="Jest" src="https://img.shields.io/badge/-Jest-15c213?style=flat-square&logo=jest&logoColor=white" /> proficency.
+- 🌱 I’m currently learning <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />.
 
 - ⚡ Available for Freelance projects.
 
