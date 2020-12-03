@@ -33,7 +33,7 @@ Software development has been a part of me since my teens. From writing  "hello 
 
 <br>
 
-- 🌱 I’m currently learning <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />.
+- 🌱 I’m currently mastering <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />.
 
 - ⚡ Available for Freelance projects.
 
