@@ -2,18 +2,24 @@
 
 <br>
 
-I'm Sasho, a Full-Stack Web Developer from <b>Norwich, UK</b>. 
+I'm Sasho, a Full-Stack Web and Web3 app Developer from <b>Norwich, UK</b>. 
 
 Software development has been a part of me since my teens. From writing  "hello world" in Basic to building my first website in Flash, for years, designing, customising and developing websites provided me with a much-needed challenge and artistic expression. For many programming is a job, for me,  it's a ticket to the world of endless possibilities.
 
 <h3>Things I code with:</h3>
 
+<p>
+  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-000000?style=flat-square&logo=solidity&logoColor=white" />
+  <img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web-3-dot-js&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+</p>
+
 <p>  
   <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white" />
   <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
   
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E00097?style=flat-square&logo=graphql&logoColor=white" />
